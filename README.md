@@ -1,5 +1,7 @@
 # vuecli34
 
+Reproduction of https://github.com/vuejs/vue-cli/issues/3399
+
 ## Project setup
 ```
 npm install
